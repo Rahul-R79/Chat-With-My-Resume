@@ -1,23 +1,25 @@
 {
-  "name": "backend",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@langchain/core": "^1.1.15",
-    "@langchain/google-genai": "^2.1.10",
-    "cors": "^2.8.5",
-    "dotenv": "^17.2.3",
-    "express": "^5.2.1",
-    "langchain": "^1.2.10",
-    "mongoose": "^9.1.4"
-  }
+    "name": "backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "ingest": "node scripts/ingest.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@langchain/core": "^1.1.15",
+        "@langchain/google-genai": "^2.1.10",
+        "@langchain/textsplitters": "^1.0.1",
+        "cors": "^2.8.5",
+        "dotenv": "^17.2.3",
+        "express": "^5.2.1",
+        "langchain": "^1.2.10",
+        "mongoose": "^9.1.4"
+    }
 }

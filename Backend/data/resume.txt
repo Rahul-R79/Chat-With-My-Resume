@@ -1,0 +1,67 @@
+Rahul R
+MERN Stack Developer
++91 7994611582 | rahulbindu582@gmail.com | LinkedIn | LeetCode | GitHub
+
+Profile Summary
+A self-taught MERN stack developer with expertise in JavaScript, Node.js, Express, MongoDB, and React, adept at building dynamic and responsive web applications. Additionally, with 1.5 years of experience as a Placement Coordinator, I have successfully managed student placements and strengthened corporate relations, combining strong organizational skills with management proficiency. Passionate about leveraging both technical expertise and management experience, I am eager to contribute to a dynamic development team, driving innovation and delivering impactful solutions.
+
+Technical Skills
+Frontend Development: HTML, CSS, SCSS, Bootstrap, Tailwind, JavaScript, React, Redux, EJS, Figma (UI/UX design)
+Backend Development: Node.js, Express.js, RESTful APIs, JWT, Passport
+Databases and Caching: MongoDB, Redis, Firebase
+Testing and QA: Mocha, Chai, Jest, Postman
+DevOps and Deployment: AWS EC2, Nginx, Vercel
+AI and Automation Tools: ChatGPT, Gemini, Hugging Face, Cursor, Copilot
+Concepts and Programming Skills: Data Structures and Algorithms (DSA), MVC Architecture, Object-Oriented Programming (OOP)
+Version Control and Collaboration: GitHub, GitLab
+
+Professional Experience
+Senior Placement Coordinator | Oct 2023 – Feb 2025
+Brototype (PACKAPEER ACADEMY PRIVATE LIMITED)
+• Successfully placed more than 600 students in various companies by leveraging strong corporate relationships, coordinating placement activities, and facilitating smooth interactions between candidates and organizations.
+• Verified and maintained the functionality of placement-related tools and platforms, ensuring seamless usability for recruitment processes and coordination activities.
+• Participated in the Take of Interviews (TOI), contributing insights on candidates’ technical abilities and project contributions.
+• Led a team of Placement Coordinators and interns, providing training, mentorship, and guidance to enhance their skills and effectiveness in managing placement activities.
+• Managed end-to-end placement activities, including B2B placements, resume management, recruitment tool administration, placement updates, and post-placement coordination, ensuring seamless and effective placement processes.
+
+Projects
+FlowWell - Menstrual E-commerce Platform | Live Link | GitHub
+FlowWell is an AI-driven e-commerce platform designed to transform the typical online shopping experience into a personalized and proactive one. The platform integrates intelligent features such as AI-powered review summaries, smart cycle notifications, flexible payment options, high-security authentication, real-time order tracking, and an incentive system to improve user engagement and satisfaction. Built with a modern tech stack, FlowWell leverages React, Redux, Node.js, Express.js, MongoDB, Redis, and cloud services to deliver a fast, scalable, and secure shopping experience.
+- Integrated AI-powered review summaries using Hugging Face to provide users with quick insights from massive feedback, aiding informed purchase decisions.
+- Implemented Smart Cycle Notifications using Node.js Scheduling to deliver timely, personalized reminders, ensuring users never run out of essential supplies.
+- Developed flexible payment options with Razorpay, in-app Wallet, and Cash on Delivery (COD), offering seamless and secure transactions.
+- Ensured high-security authentication with JWT for token-based, safe, and stateless session management.
+- Built an incentive system with coupons and referral programs via Express.js APIs, enhancing user engagement and loyalty.
+- Implemented live order tracking with MongoDB, providing real-time updates from checkout to delivery for an enhanced user experience.
+- Designed a responsive frontend with React, Redux, and Bootstrap, and scalable backend APIs with Node.js and Express.js for high-performance operations.
+- Integrated Cloudinary for optimized media management and fast asset delivery.
+- Deployed the frontend on Vercel and backend on AWS EC2 to ensure fast load times, reliability, and scalable hosting infrastructure.
+
+User Management System | GitHub
+Developed a full-featured User Management System that enables efficient handling of user data, roles, and authentication with JWT. Built with React and Redux for state management, the application provides a responsive interface for CRUD operations, real-time state updates, and a seamless user experience.
+- Implemented user registration, login, and profile management with secure JWT authentication.
+- Managed global application state with Redux and Redux Persist, ensuring seamless session handling and real-time updates.
+- Built a responsive frontend using React, providing an intuitive and dynamic user interface.
+- Developed CRUD functionality with role-based access control, allowing admins full management and users limited access.
+- Enabled admin operations: add, edit, search, and delete users with pagination.
+- Integrated Express Validator for robust form validation and error handling, improving security and user experience.
+
+Netflix Clone | GitHub
+Developed a Netflix Clone web application that allows users to browse, search, wishlist, the movie information in a dynamic and interactive interface. Built with the React and Context API for state management, the app fetches real-time movie data from the OMDB API and movie trailers from the YouTube API, ensuring secure access with firewall integration. The project emphasizes responsive design, smooth navigation, and a modern user experience.
+- Fetched and displayed real-time movie data using the OMDB API, including movie posters, ratings, and plot summaries.
+- Integrated the YouTube API to stream official trailers directly within the application.
+- Implemented global state management using Context API for efficient and seamless data handling across components.
+- Built a responsive and dynamic UI with React, providing a smooth, Netflix-like browsing experience.
+- Integrated firewall/security measures to protect the application and API requests from unauthorized access.
+- Included loading states and error handling for API requests to improve user experience.
+
+Achievements
+Web Development Workshop | Certificate
+Successfully completed a web development workshop during college, gaining hands-on experience and practical skills in various aspects of web development.
+
+Education
+MERN Stack Development | 2025 – Present
+Brototype
+
+BCom - Computer Application | 2021 – 2023
+Kerala University
