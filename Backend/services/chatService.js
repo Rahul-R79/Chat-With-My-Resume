@@ -24,7 +24,7 @@ const chatService = {
                         path: "embedding",
                         queryVector: queryVector,
                         numCandidates: 100,
-                        limit: 3, // Get top 3 relavent chunks of data for the question
+                        limit: 20,
                     },
                 },
                 {
